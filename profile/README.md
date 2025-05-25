@@ -300,14 +300,16 @@ Porém, ele se sente muito confortável com o novo modelo de teclado, e isso tro
 
 ## Seminário de Projetos de Software
 
-Fotos com apresentação no dia do Seminário
+Fotos e video da apresentação no dia do Seminário
 
-<a href="https://youtu.be/rgqZIPgFl2g" target="_blank">
+<div href="https://youtu.be/rgqZIPgFl2g" target="_blank" align="center">
   <img
     src="https://raw.githubusercontent.com/aeon-keyboard/.github/main/assets/tumb.png"
     alt="Apresentação do Projeto Aeon"
-    style="border-radius: 12px; width: 100%; max-width: 640px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); cursor: pointer;" />
-</a>
+    width="640"
+/>
+<p>Clique na imagem para visualizar o video</p>
+</div>
 
 **Apresentação na semana da Tecnologia**
 ![Apresentacao](https://raw.githubusercontent.com/aeon-keyboard/.github/main/assets/group_presentation.png)
@@ -318,33 +320,14 @@ Fotos com apresentação no dia do Seminário
 
 ## Carta de Autorização
 
-<div style="max-width: 480px; margin: 2em auto; text-align: center; font-family: sans-serif;">
-  <a href="https://raw.githubusercontent.com/aeon-keyboard/.github/main/assets/Carta de Autorizacao-LTD-Assinada.pdf" target="_blank" style="text-decoration: none; display: inline-block; position: relative;">
-    <img
-      src="[../assets/icon_pdf.png](https://raw.githubusercontent.com/aeon-keyboard/.github/main/assets/icon_pdf.png)"
-      alt="Apresentação para Espectadores"
-      style="width: 100%; border-radius: 12px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25); transition: transform 0.3s ease-in-out;"
-      onmouseover="this.style.transform='scale(1.02)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
-    <div style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background: rgba(0,0,0,0.6);
-      color: white;
-      padding: 12px 24px;
-      border-radius: 8px;
-      font-weight: bold;
-      font-size: 1.1rem;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-    ">
-      📄 Ver PDF
-    </div>
-  </a>
-  <p style="color: #666; font-size: 0.9rem; margin-top: 0.5em;">Clique na imagem acima para visualizar a apresentação em PDF</p>
+<div href="https://raw.githubusercontent.com/aeon-keyboard/.github/main/assets/Carta de Autorizacao-LTD-Assinada.pdf" target="_blank" align="center">
+  <img
+    src="https://raw.githubusercontent.com/aeon-keyboard/.github/main/assets/icon_pdf.png"
+    alt="Autorização em PDF"
+    width="210" />
+    <p>📄 Clique na imagem para visualizar a autorização em PDF</p>
 </div>
+
 
 ## Relato Individual do Processo
 
